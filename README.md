@@ -87,7 +87,9 @@ Made with ❤️ by Sandhiya
 This project is open-source and free to use for educational purposes.
 
 Sample output:
-<img width="918" height="873" alt="Screenshot 2025-06-26 222853" src="https://github.com/user-attachments/assets/e0749928-758a-4bf9-aa47-8e9a3e88fcef" />
+<img width="660" height="483" alt="Screenshot 2025-06-26 224417" src="https://github.com/user-attachments/assets/bac73a78-d5ff-4529-8019-9910522c2e2c" />
+<img width="877" height="865" alt="Screenshot 2025-06-26 224116" src="https://github.com/user-attachments/assets/06cb7b16-f5d5-4264-9913-849038fcb535" />
+
 
 
 
